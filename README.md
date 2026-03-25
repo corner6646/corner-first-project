@@ -34,7 +34,7 @@
 - 页面支持：画板手写 / 上传图片
 - 支持显示：预处理后的 28×28 输入预览
 
-demo.png
+![Demo Screenshot](demo.png)
 
 ---
 
